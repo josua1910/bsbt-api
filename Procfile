@@ -1,1 +1,1 @@
-web:node index.js
+web:pkg install ffmpeg -y && node index.js
